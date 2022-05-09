@@ -1,0 +1,10 @@
+__pycache__
+.env
+.history
+.hypothesis/
+build/
+reports/
+contracts/aave-protocol-V2
+contracts/uniswap-v3
+logs/
+miscellaneous/

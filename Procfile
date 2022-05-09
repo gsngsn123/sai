@@ -1,0 +1,1 @@
+bot: python scripts/bot.py --network polygon-main

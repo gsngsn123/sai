@@ -1,0 +1,335 @@
+Brownie v1.18.1 - Python development framework for Ethereum
+
+ArbBotMasterProject is the active project.
+
+Running 'scripts\bot.py::main'...
+Deploying BotSmartContract...
+BotSmartContract was already deployed
+Setting up VariablePairData for the token pair WMATIC_USDC...
+Set up done
+
+Setting up VariablePairData for the token pair WMATIC_DAI...
+Set up done
+
+Setting up VariablePairData for the token pair WMATIC_LINK...
+Set up done
+
+Setting up VariablePairData for the token pair WMATIC_WBTC...
+Set up done
+
+Setting up VariablePairData for the token pair WMATIC_WETH...
+Set up done
+
+Setting up VariablePairData for the token pair WMATIC_USDT...
+Set up done
+
+Setting up VariablePairData for the token pair WMATIC_COMP...
+Set up done
+
+Setting up VariablePairData for the token pair WMATIC_CEL...
+Set up done
+
+Setting up VariablePairData for the token pair WMATIC_AAVE...
+Set up done
+
+Setting up VariablePairData for the token pair WMATIC_CRV...
+Set up done
+
+Setting up VariablePairData for the token pair WMATIC_QI...
+Set up done
+
+Setting up VariablePairData for the token pair USDC_DAI...
+Set up done
+
+Setting up VariablePairData for the token pair USDC_LINK...
+Set up done
+
+Setting up VariablePairData for the token pair USDC_WBTC...
+Set up done
+
+Setting up VariablePairData for the token pair USDC_WETH...
+Set up done
+
+Setting up VariablePairData for the token pair USDC_USDT...
+Set up done
+
+Setting up VariablePairData for the token pair USDC_COMP...
+Setting up failed. Ignoring pair.
+The exception was:
+No LP found in dex sushiswap for the pair ['USDC', 'COMP']
+
+Setting up VariablePairData for the token pair USDC_CEL...
+Setting up failed. Ignoring pair.
+The exception was:
+No LP found in dex sushiswap for the pair ['USDC', 'CEL']
+
+Setting up VariablePairData for the token pair USDC_AAVE...
+Set up done
+
+Setting up VariablePairData for the token pair USDC_CRV...
+Set up done
+
+Setting up VariablePairData for the token pair USDC_QI...
+Set up done
+
+Setting up VariablePairData for the token pair DAI_LINK...
+Set up done
+
+Setting up VariablePairData for the token pair DAI_WBTC...
+Set up done
+
+Setting up VariablePairData for the token pair DAI_WETH...
+Set up done
+
+Setting up VariablePairData for the token pair DAI_USDT...
+Set up done
+
+Setting up VariablePairData for the token pair DAI_COMP...
+Setting up failed. Ignoring pair.
+The exception was:
+No LP found in dex sushiswap for the pair ['DAI', 'COMP']
+
+Setting up VariablePairData for the token pair DAI_CEL...
+Setting up failed. Ignoring pair.
+The exception was:
+No LP found in dex quickswap for the pair ['DAI', 'CEL']
+
+Setting up VariablePairData for the token pair DAI_AAVE...
+Set up done
+
+Setting up VariablePairData for the token pair DAI_CRV...
+Set up done
+
+Setting up VariablePairData for the token pair DAI_QI...
+Set up done
+
+Setting up VariablePairData for the token pair LINK_WBTC...
+Set up done
+
+Setting up VariablePairData for the token pair LINK_WETH...
+Set up done
+
+Setting up VariablePairData for the token pair LINK_USDT...
+Set up done
+
+Setting up VariablePairData for the token pair LINK_COMP...
+Setting up failed. Ignoring pair.
+The exception was:
+No LP found in dex sushiswap for the pair ['LINK', 'COMP']
+
+Setting up VariablePairData for the token pair LINK_CEL...
+Setting up failed. Ignoring pair.
+The exception was:
+No LP found in dex quickswap for the pair ['LINK', 'CEL']
+
+Setting up VariablePairData for the token pair LINK_AAVE...
+Set up done
+
+Setting up VariablePairData for the token pair LINK_CRV...
+Set up done
+
+Setting up VariablePairData for the token pair LINK_QI...
+Setting up failed. Ignoring pair.
+The exception was:
+No LP found in dex quickswap for the pair ['LINK', 'QI']
+
+Setting up VariablePairData for the token pair WBTC_WETH...
+Set up done
+
+Setting up VariablePairData for the token pair WBTC_USDT...
+Set up done
+
+Setting up VariablePairData for the token pair WBTC_COMP...
+Set up done
+
+Setting up VariablePairData for the token pair WBTC_CEL...
+Setting up failed. Ignoring pair.
+The exception was:
+No LP found in dex quickswap for the pair ['WBTC', 'CEL']
+
+Setting up VariablePairData for the token pair WBTC_AAVE...
+Set up done
+
+Setting up VariablePairData for the token pair WBTC_CRV...
+Setting up failed. Ignoring pair.
+The exception was:
+No LP found in dex sushiswap for the pair ['WBTC', 'CRV']
+
+Setting up VariablePairData for the token pair WBTC_QI...
+Setting up failed. Ignoring pair.
+The exception was:
+No LP found in dex sushiswap for the pair ['WBTC', 'QI']
+
+Setting up VariablePairData for the token pair WETH_USDT...
+Set up done
+
+Setting up VariablePairData for the token pair WETH_COMP...
+Set up done
+
+Setting up VariablePairData for the token pair WETH_CEL...
+Set up done
+
+Setting up VariablePairData for the token pair WETH_AAVE...
+Set up done
+
+Setting up VariablePairData for the token pair WETH_CRV...
+Set up done
+
+Setting up VariablePairData for the token pair WETH_QI...
+Set up done
+
+Setting up VariablePairData for the token pair USDT_COMP...
+Setting up failed. Ignoring pair.
+The exception was:
+No LP found in dex sushiswap for the pair ['USDT', 'COMP']
+
+Setting up VariablePairData for the token pair USDT_CEL...
+Setting up failed. Ignoring pair.
+The exception was:
+No LP found in dex quickswap for the pair ['USDT', 'CEL']
+
+Setting up VariablePairData for the token pair USDT_AAVE...
+Set up done
+
+Setting up VariablePairData for the token pair USDT_CRV...
+Set up done
+
+Setting up VariablePairData for the token pair USDT_QI...
+Setting up failed. Ignoring pair.
+The exception was:
+No LP found in dex sushiswap for the pair ['USDT', 'QI']
+
+Setting up VariablePairData for the token pair COMP_CEL...
+Setting up failed. Ignoring pair.
+The exception was:
+No LP found in dex quickswap for the pair ['COMP', 'CEL']
+
+Setting up VariablePairData for the token pair COMP_AAVE...
+Setting up failed. Ignoring pair.
+The exception was:
+No LP found in dex quickswap for the pair ['COMP', 'AAVE']
+
+Setting up VariablePairData for the token pair COMP_CRV...
+Setting up failed. Ignoring pair.
+The exception was:
+No LP found in dex quickswap for the pair ['COMP', 'CRV']
+
+Setting up VariablePairData for the token pair COMP_QI...
+Setting up failed. Ignoring pair.
+The exception was:
+No LP found in dex quickswap for the pair ['COMP', 'QI']
+
+Setting up VariablePairData for the token pair CEL_AAVE...
+Setting up failed. Ignoring pair.
+The exception was:
+No LP found in dex quickswap for the pair ['CEL', 'AAVE']
+
+Setting up VariablePairData for the token pair CEL_CRV...
+Setting up failed. Ignoring pair.
+The exception was:
+No LP found in dex quickswap for the pair ['CEL', 'CRV']
+
+Setting up VariablePairData for the token pair CEL_QI...
+Setting up failed. Ignoring pair.
+The exception was:
+No LP found in dex quickswap for the pair ['CEL', 'QI']
+
+Setting up VariablePairData for the token pair AAVE_CRV...
+Setting up failed. Ignoring pair.
+The exception was:
+No LP found in dex sushiswap for the pair ['AAVE', 'CRV']
+
+Setting up VariablePairData for the token pair AAVE_QI...
+Setting up failed. Ignoring pair.
+The exception was:
+No LP found in dex quickswap for the pair ['AAVE', 'QI']
+
+Setting up VariablePairData for the token pair CRV_QI...
+Setting up failed. Ignoring pair.
+The exception was:
+No LP found in dex quickswap for the pair ['CRV', 'QI']
+
+Loading MultiArmedBandit state...
+Loading done!
+Starting epoch after waiting for 10.567346572875977s
+['DAI', 'USDT']
+Reserves buying dex: [12025438.053268697, 23157867.74271]
+Reserves selling dex: [39658714.960429944, 75878131.847931]
+Price buying dex: 0.5192808848756921
+Price selling dex: 0.5226633022530236
+Price ratio: 0.9935284965239553
+Buying dex index: 1
+Net profit: 0.5406316549798625 (Min: 0.00010004862363108471)
+Optimal borrow amount: 4292.202770860465
+
+
+
+
+
+NEW ACTION: Requesting flashloan and swapping...
+
+['DAI', 'USDT']
+Reserves buying dex: [12025438.053268697, 23157867.74271]
+Reserves selling dex: [39658714.960429944, 75878131.847931]
+Price buying dex: 0.5192808848756921
+Price selling dex: 0.5226633022530236
+Price ratio: 0.9935284965239553
+Buying dex index: 1
+Net profit: 0.5406316549798625 (Min: 0.00010004862363108471)
+Optimal borrow amount: 4292.202770860465
+Info before the failure
+(['0x8f3cf7ad23cd3cadbd9735aff958023239c6a063', '0xc2132d05d31c914a87c6611c10748aeb04b58e8f'], ['0x5757371414417b8C6CAad45bAeF941aBc7d3Ab32', '0xc35DADB65012eC5796536bD9864eD8773aBc74C4'], ['0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff', '0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506'], 4292202770.860465, 1, 0, [False, False], 997.0)
+
+
+['DAI', 'USDT']
+Reserves buying dex: [12025438.053268697, 23157867.74271]
+Reserves selling dex: [39658714.960429944, 75878131.847931]
+Price buying dex: 0.5192808848756921
+Price selling dex: 0.5226633022530236
+Price ratio: 0.9935284965239553
+Buying dex index: 1
+Net profit: 0.5406316549798625 (Min: 0.00010004862363108471)
+Optimal borrow amount: 4292.202770860465
+Info after failure
+(['0x8f3cf7ad23cd3cadbd9735aff958023239c6a063', '0xc2132d05d31c914a87c6611c10748aeb04b58e8f'], ['0x5757371414417b8C6CAad45bAeF941aBc7d3Ab32', '0xc35DADB65012eC5796536bD9864eD8773aBc74C4'], ['0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff', '0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506'], 4292202770.860465, 1, 0, [False, False], 997.0)
+
+
+Operation failed
+The exception is
+Gas estimation failed: 'execution reverted: UniswapV2: INSUFFICIENT_LIQUIDITY'. This transaction will likely revert. If you wish to broadcast, you must set the gas limit manually.
+
+  File "C:\Users\vkart\AppData\Local\Programs\Python\Python39\lib\site-packages\brownie\_cli\run.py", line 51, in main
+    return_value, frame = run(
+  File "C:\Users\vkart\AppData\Local\Programs\Python\Python39\lib\site-packages\brownie\project\scripts.py", line 103, in run
+    return_value = f_locals[method_name](*args, **kwargs)
+  File ".\scripts\bot.py", line 19, in main
+    Bot().run()
+  File ".\scripts\utils.py", line 66, in wrapped_fun
+    raise e
+  File ".\scripts\utils.py", line 60, in wrapped_fun
+    return function(*args, **kwargs)
+  File ".\scripts\bot.py", line 48, in run
+    self.run_epoch()
+  File ".\scripts\bot.py", line 70, in run_epoch
+    return self.engage_in_arbitrage()
+  File ".\scripts\bot.py", line 86, in engage_in_arbitrage
+    return self.handle_failed_arb(e)
+  File ".\scripts\bot.py", line 195, in handle_failed_arb
+    raise _exception
+  File ".\scripts\bot.py", line 84, in engage_in_arbitrage
+    return self._engage_in_arbitrage()
+  File ".\scripts\bot.py", line 89, in _engage_in_arbitrage
+    tx = self.flashloan_and_swap()
+  File ".\scripts\bot.py", line 95, in flashloan_and_swap
+    tx = self.bot_smartcontract.requestFlashLoanAndAct(
+  File "C:\Users\vkart\AppData\Local\Programs\Python\Python39\lib\site-packages\brownie\network\contract.py", line 1710, in __call__
+    return self.transact(*args)
+  File "C:\Users\vkart\AppData\Local\Programs\Python\Python39\lib\site-packages\brownie\network\contract.py", line 1583, in transact
+    return tx["from"].transfer(
+  File "C:\Users\vkart\AppData\Local\Programs\Python\Python39\lib\site-packages\brownie\network\account.py", line 644, in transfer
+    receipt, exc = self._make_transaction(
+  File "C:\Users\vkart\AppData\Local\Programs\Python\Python39\lib\site-packages\brownie\network\account.py", line 727, in _make_transaction
+    raise VirtualMachineError(e) from None
+  File "C:\Users\vkart\AppData\Local\Programs\Python\Python39\lib\site-packages\brownie\exceptions.py", line 93, in __init__
+    raise ValueError(str(exc)) from None
+ValueError: Gas estimation failed: 'execution reverted: UniswapV2: INSUFFICIENT_LIQUIDITY'. This transaction will likely revert. If you wish to broadcast, you must set the gas limit manually.
