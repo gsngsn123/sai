@@ -36,7 +36,7 @@ max_value_of_flashloan = 1e6 * 1e18
 loan_bounds = (0, max_value_of_flashloan)
 
 # Min expected net profits in USD in order to execute an arbitrage operation
-min_net_profits_in_usd = 0.01
+min_net_profits_in_usd = 0.25
 
 # How often the bot gets into maintenance. Currently this involves only
 # updating the CoinGecko prices of the tokens being tracked, and saving
@@ -57,7 +57,7 @@ if network.show_active() in FTM_NETWORKS:
 elif network.show_active() in ETH_NETWORKS:
     gas_strategy = 50
 elif network.show_active() in MATIC_NETWORKS:
-    gas_strategy = "75 gwei"
+    gas_strategy = "1000 gwei"
 elif network.show_active() in AVAX_NETWORKS:
     gas_strategy = None #"40 gwei"
 else:

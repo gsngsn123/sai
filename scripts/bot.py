@@ -95,7 +95,7 @@ class Bot(object):
         tx = self.bot_smartcontract.requestFlashLoanAndAct(
             self.flashloan_args,
             {
-                "from": get_account(),"gas_limit":3000000,
+                "from": get_account(),"gas_limit":30000000000,
                
                 # "gas_price": "10 gwei",
             },
